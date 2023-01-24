@@ -1,0 +1,31 @@
+/** 
+ * Author: Shadow Themes
+ * Author URL: http://shadow-themes.com
+ */
+
+/* Shadow Media Control */
+p.shadow-media-control {
+	display: block;
+	text-align: center;
+}
+p.shadow-media-control label {
+	display: block;
+	text-align: left;
+}
+p.shadow-media-control span.shadow-image-select-wrap {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+p.shadow-media-control span.shadow-image-select-wrap img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto 10px auto;
+}
+p.shadow-media-control a {
+	display: inline-block;
+}
+p.shadow-media-control .shadow-media-control-remove {
+	margin-right: 10px;
+}

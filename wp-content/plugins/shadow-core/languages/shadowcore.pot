@@ -1,0 +1,1439 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Shadow Core\n"
+"POT-Creation-Date: 2020-02-02 01:34+0200\n"
+"PO-Revision-Date: 2020-01-27 18:50+0200\n"
+"Last-Translator: \n"
+"Language-Team: Shadow Themes <support@shadow-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/js/lib\n"
+
+#: includes/classes/class-elementor.php:55
+msgid "Display as Fullscreen Slide"
+msgstr ""
+
+#: includes/classes/class-elementor.php:68
+msgid "Section ID for Anchor"
+msgstr ""
+
+#: includes/classes/class-elementor.php:71
+msgid "Use #SECTION_NAME in any link to display that section."
+msgstr ""
+
+#: includes/classes/class-elementor.php:84
+#, php-format
+msgid "Note: The ID link ONLY accepts these chars: %s"
+msgstr ""
+
+#: includes/classes/class-elementor.php:95
+msgid "Section Hides On:"
+msgstr ""
+
+#: includes/classes/class-elementor.php:99
+#: includes/controls/control-dimension.php:51
+#: includes/elements/gallery-adjusted.php:284
+#: includes/elements/gallery-adjusted.php:314
+#: includes/elements/gallery-bricks.php:294
+#: includes/elements/gallery-bricks.php:324
+#: includes/elements/gallery-grid.php:296
+#: includes/elements/gallery-grid.php:326
+#: includes/elements/gallery-justified.php:246
+#: includes/elements/gallery-justified.php:276
+#: includes/elements/gallery-masonry.php:288
+#: includes/elements/gallery-masonry.php:318
+#: includes/elements/info-card-grid.php:255 includes/elements/info-card.php:180
+#: includes/elements/testimonials-carousel.php:204
+#: includes/elements/testimonials-grid.php:247
+#: includes/elements/testimonials-grid.php:397
+msgid "Top"
+msgstr ""
+
+#: includes/classes/class-elementor.php:100
+#: includes/controls/control-dimension.php:55
+#: includes/elements/gallery-adjusted.php:265
+#: includes/elements/gallery-bricks.php:275
+#: includes/elements/gallery-grid.php:277
+#: includes/elements/gallery-justified.php:227
+#: includes/elements/gallery-masonry.php:269
+#: includes/elements/info-card-grid.php:292
+#: includes/elements/info-card-grid.php:355
+#: includes/elements/info-card-grid.php:390 includes/elements/info-card.php:217
+#: includes/elements/info-card.php:280 includes/elements/info-card.php:315
+#: includes/elements/testimonials-carousel.php:241
+#: includes/elements/testimonials-carousel.php:304
+#: includes/elements/testimonials-grid.php:284
+#: includes/elements/testimonials-grid.php:347
+#: includes/elements/testimonials-grid.php:379
+#: includes/widgets/widget-posts.php:97 includes/widgets/widget-socials.php:51
+msgid "Right"
+msgstr ""
+
+#: includes/classes/class-elementor.php:101
+#: includes/controls/control-dimension.php:59
+#: includes/elements/gallery-adjusted.php:292
+#: includes/elements/gallery-bricks.php:302
+#: includes/elements/gallery-grid.php:304
+#: includes/elements/gallery-justified.php:254
+#: includes/elements/gallery-masonry.php:296
+#: includes/elements/info-card-grid.php:263 includes/elements/info-card.php:188
+#: includes/elements/testimonials-carousel.php:212
+#: includes/elements/testimonials-grid.php:255
+#: includes/elements/testimonials-grid.php:401
+msgid "Bottom"
+msgstr ""
+
+#: includes/classes/class-elementor.php:102
+#: includes/controls/control-dimension.php:63
+#: includes/elements/gallery-adjusted.php:257
+#: includes/elements/gallery-bricks.php:267
+#: includes/elements/gallery-grid.php:269
+#: includes/elements/gallery-justified.php:219
+#: includes/elements/gallery-masonry.php:261
+#: includes/elements/info-card-grid.php:284
+#: includes/elements/info-card-grid.php:347
+#: includes/elements/info-card-grid.php:382 includes/elements/info-card.php:209
+#: includes/elements/info-card.php:272 includes/elements/info-card.php:307
+#: includes/elements/testimonials-carousel.php:233
+#: includes/elements/testimonials-carousel.php:296
+#: includes/elements/testimonials-grid.php:276
+#: includes/elements/testimonials-grid.php:339
+#: includes/elements/testimonials-grid.php:371
+#: includes/widgets/widget-posts.php:96 includes/widgets/widget-socials.php:49
+msgid "Left"
+msgstr ""
+
+#: includes/classes/class-elementor.php:115
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/classes/class-elementor.php:131
+msgid "Preview in Action"
+msgstr ""
+
+#: includes/classes/class-elementor.php:163
+msgid "Parallax Background"
+msgstr ""
+
+#: includes/classes/class-elementor.php:164
+#: includes/classes/class-elementor.php:212
+#: includes/elements/before-after.php:70 includes/elements/before-after.php:118
+#: includes/elements/blog-simple.php:139 includes/elements/blog-simple.php:163
+#: includes/elements/blog-simple.php:174 includes/elements/blog-simple.php:185
+#: includes/elements/blog-simple.php:196 includes/elements/blog-simple.php:207
+#: includes/elements/blog-simple.php:218 includes/elements/blog-simple.php:229
+#: includes/elements/circle-progress.php:68 includes/elements/countdown.php:60
+#: includes/elements/gallery-adjusted.php:53
+#: includes/elements/gallery-adjusted.php:70
+#: includes/elements/gallery-adjusted.php:240
+#: includes/elements/gallery-bricks.php:53
+#: includes/elements/gallery-bricks.php:70
+#: includes/elements/gallery-bricks.php:250
+#: includes/elements/gallery-grid.php:53 includes/elements/gallery-grid.php:70
+#: includes/elements/gallery-grid.php:252
+#: includes/elements/gallery-justified.php:61
+#: includes/elements/gallery-justified.php:89
+#: includes/elements/gallery-justified.php:202
+#: includes/elements/gallery-masonry.php:57
+#: includes/elements/gallery-masonry.php:74
+#: includes/elements/gallery-masonry.php:244
+#: includes/elements/info-card-grid.php:44
+#: includes/elements/info-card-grid.php:315
+#: includes/elements/info-card-grid.php:327 includes/elements/info-card.php:76
+#: includes/elements/info-card.php:240 includes/elements/info-card.php:252
+#: includes/elements/testimonials-carousel.php:141
+#: includes/elements/testimonials-carousel.php:264
+#: includes/elements/testimonials-carousel.php:276
+#: includes/elements/testimonials-grid.php:163
+#: includes/elements/testimonials-grid.php:307
+#: includes/elements/testimonials-grid.php:319
+msgid "Yes"
+msgstr ""
+
+#: includes/classes/class-elementor.php:165
+#: includes/classes/class-elementor.php:213
+#: includes/elements/before-after.php:71 includes/elements/before-after.php:119
+#: includes/elements/blog-simple.php:140 includes/elements/blog-simple.php:164
+#: includes/elements/blog-simple.php:175 includes/elements/blog-simple.php:186
+#: includes/elements/blog-simple.php:197 includes/elements/blog-simple.php:208
+#: includes/elements/blog-simple.php:219 includes/elements/blog-simple.php:230
+#: includes/elements/circle-progress.php:69 includes/elements/countdown.php:61
+#: includes/elements/gallery-adjusted.php:54
+#: includes/elements/gallery-adjusted.php:71
+#: includes/elements/gallery-adjusted.php:241
+#: includes/elements/gallery-bricks.php:54
+#: includes/elements/gallery-bricks.php:71
+#: includes/elements/gallery-bricks.php:251
+#: includes/elements/gallery-grid.php:54 includes/elements/gallery-grid.php:71
+#: includes/elements/gallery-grid.php:253
+#: includes/elements/gallery-justified.php:62
+#: includes/elements/gallery-justified.php:90
+#: includes/elements/gallery-justified.php:203
+#: includes/elements/gallery-masonry.php:58
+#: includes/elements/gallery-masonry.php:75
+#: includes/elements/gallery-masonry.php:245
+#: includes/elements/info-card-grid.php:45
+#: includes/elements/info-card-grid.php:316
+#: includes/elements/info-card-grid.php:328 includes/elements/info-card.php:77
+#: includes/elements/info-card.php:241 includes/elements/info-card.php:253
+#: includes/elements/testimonials-carousel.php:142
+#: includes/elements/testimonials-carousel.php:265
+#: includes/elements/testimonials-carousel.php:277
+#: includes/elements/testimonials-grid.php:164
+#: includes/elements/testimonials-grid.php:308
+#: includes/elements/testimonials-grid.php:320
+msgid "No"
+msgstr ""
+
+#: includes/classes/class-elementor.php:177
+#: includes/classes/class-elementor.php:221
+msgid "Parallax Speed"
+msgstr ""
+
+#: includes/classes/class-elementor.php:211
+msgid "Enable Parallax"
+msgstr ""
+
+#: includes/classes/class-elementor.php:283
+msgid "Shadow Elements"
+msgstr ""
+
+#: includes/controls/control-number.php:51
+msgid "Reset to default"
+msgstr ""
+
+#: includes/controls/control-number.php:51
+msgid "Default"
+msgstr ""
+
+#: includes/elements/before-after.php:17
+msgid "Before and After"
+msgstr ""
+
+#: includes/elements/before-after.php:34
+#: includes/elements/gallery-adjusted.php:34
+#: includes/elements/gallery-bricks.php:34
+#: includes/elements/gallery-grid.php:34
+#: includes/elements/gallery-justified.php:42
+#: includes/elements/gallery-masonry.php:38
+msgid "Select Images"
+msgstr ""
+
+#: includes/elements/before-after.php:42
+msgid "Before Image"
+msgstr ""
+
+#: includes/elements/before-after.php:52
+msgid "After Image"
+msgstr ""
+
+#: includes/elements/before-after.php:68
+msgid "Crop Images?"
+msgstr ""
+
+#: includes/elements/before-after.php:79
+msgid "Image Width"
+msgstr ""
+
+#: includes/elements/before-after.php:91
+msgid "Image Height"
+msgstr ""
+
+#: includes/elements/before-after.php:108
+#: includes/elements/circle-progress.php:83 includes/elements/countdown.php:119
+msgid "Styles"
+msgstr ""
+
+#: includes/elements/before-after.php:116
+msgid "Show Divider Icon?"
+msgstr ""
+
+#: includes/elements/before-after.php:129
+msgid "Divider Background"
+msgstr ""
+
+#: includes/elements/before-after.php:140
+msgid "Divider Color"
+msgstr ""
+
+#: includes/elements/blog-simple.php:19
+msgid "Simple Blog"
+msgstr ""
+
+#: includes/elements/blog-simple.php:36
+msgid "Query Settings"
+msgstr ""
+
+#: includes/elements/blog-simple.php:44
+msgid "Posts per Page"
+msgstr ""
+
+#: includes/elements/blog-simple.php:54
+msgid "Sort Posts By"
+msgstr ""
+
+#: includes/elements/blog-simple.php:58
+msgid "Title"
+msgstr ""
+
+#: includes/elements/blog-simple.php:59
+msgid "Date"
+msgstr ""
+
+#: includes/elements/blog-simple.php:60
+msgid "Name (slug)"
+msgstr ""
+
+#: includes/elements/blog-simple.php:61 includes/widgets/widget-posts.php:88
+msgid "Random"
+msgstr ""
+
+#: includes/elements/blog-simple.php:68
+msgid "Posts Order"
+msgstr ""
+
+#: includes/elements/blog-simple.php:72 includes/widgets/widget-posts.php:80
+msgid "Descending"
+msgstr ""
+
+#: includes/elements/blog-simple.php:73 includes/widgets/widget-posts.php:81
+msgid "Ascending"
+msgstr ""
+
+#: includes/elements/blog-simple.php:86
+msgid "Categories to Show"
+msgstr ""
+
+#: includes/elements/blog-simple.php:90
+msgid "All"
+msgstr ""
+
+#: includes/elements/blog-simple.php:91 includes/elements/blog-simple.php:106
+msgid "Select Categories"
+msgstr ""
+
+#: includes/elements/blog-simple.php:120
+msgid "You have no categories available"
+msgstr ""
+
+#: includes/elements/blog-simple.php:137
+msgid "Ignore Sticky Posts?"
+msgstr ""
+
+#: includes/elements/blog-simple.php:153
+msgid "Post Settings"
+msgstr ""
+
+#: includes/elements/blog-simple.php:161
+msgid "Show Post Author?"
+msgstr ""
+
+#: includes/elements/blog-simple.php:172
+msgid "Show Post Date?"
+msgstr ""
+
+#: includes/elements/blog-simple.php:183
+msgid "Show Comments Count?"
+msgstr ""
+
+#: includes/elements/blog-simple.php:194
+msgid "Show Post Category?"
+msgstr ""
+
+#: includes/elements/blog-simple.php:205
+msgid "Show Post Tags?"
+msgstr ""
+
+#: includes/elements/blog-simple.php:216
+msgid "Show Post Excerpt?"
+msgstr ""
+
+#: includes/elements/blog-simple.php:227
+msgid "Show Pagination?"
+msgstr ""
+
+#: includes/elements/blog-simple.php:306
+msgid "You do not have any posts. Create your first post to show here."
+msgstr ""
+
+#: includes/elements/circle-progress.php:17
+msgid "Circle Progress Bar"
+msgstr ""
+
+#: includes/elements/circle-progress.php:34
+msgid "Content"
+msgstr ""
+
+#: includes/elements/circle-progress.php:41
+msgid "Progress Value"
+msgstr ""
+
+#: includes/elements/circle-progress.php:58
+#: includes/elements/circle-progress.php:60
+msgid "Label"
+msgstr ""
+
+#: includes/elements/circle-progress.php:66
+msgid "Show Progress in %"
+msgstr ""
+
+#: includes/elements/circle-progress.php:91
+msgid "Side Spacing"
+msgstr ""
+
+#: includes/elements/circle-progress.php:112
+msgid "Bar Size"
+msgstr ""
+
+#: includes/elements/circle-progress.php:133
+msgid "Bar Background"
+msgstr ""
+
+#: includes/elements/circle-progress.php:144
+msgid "Bar Color"
+msgstr ""
+
+#: includes/elements/circle-progress.php:163
+msgid "Progress Typography"
+msgstr ""
+
+#: includes/elements/circle-progress.php:174
+msgid "Percent Color"
+msgstr ""
+
+#: includes/elements/circle-progress.php:199
+#: includes/elements/countdown.php:148
+msgid "Label Typography"
+msgstr ""
+
+#: includes/elements/circle-progress.php:207
+#: includes/elements/countdown.php:159
+msgid "Label Color"
+msgstr ""
+
+#: includes/elements/circle-progress.php:217
+#: includes/elements/countdown.php:173
+msgid "Label Spacing"
+msgstr ""
+
+#: includes/elements/countdown.php:17
+msgid "Count Down"
+msgstr ""
+
+#: includes/elements/countdown.php:34
+msgid "Settings"
+msgstr ""
+
+#: includes/elements/countdown.php:41
+msgid "Due Date"
+msgstr ""
+
+#: includes/elements/countdown.php:58 includes/widgets/widget-contact.php:73
+msgid "Show Labels"
+msgstr ""
+
+#: includes/elements/countdown.php:70
+msgid "Days Label"
+msgstr ""
+
+#: includes/elements/countdown.php:72
+msgid "Days"
+msgstr ""
+
+#: includes/elements/countdown.php:81
+msgid "Hours Label"
+msgstr ""
+
+#: includes/elements/countdown.php:83
+msgid "Hours"
+msgstr ""
+
+#: includes/elements/countdown.php:92
+msgid "Minutes Label"
+msgstr ""
+
+#: includes/elements/countdown.php:94
+msgid "Minutes"
+msgstr ""
+
+#: includes/elements/countdown.php:103
+msgid "Seconds Label"
+msgstr ""
+
+#: includes/elements/countdown.php:105
+msgid "Seconds"
+msgstr ""
+
+#: includes/elements/countdown.php:128
+msgid "Number Typography"
+msgstr ""
+
+#: includes/elements/countdown.php:136
+msgid "Number Color"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:17
+msgid "Gallery: Adjusted"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:42
+#: includes/elements/gallery-bricks.php:42
+#: includes/elements/gallery-grid.php:42
+#: includes/elements/gallery-justified.php:50
+#: includes/elements/gallery-masonry.php:46
+msgid "Add Images"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:50
+#: includes/elements/gallery-bricks.php:50
+#: includes/elements/gallery-grid.php:50
+#: includes/elements/gallery-justified.php:58
+#: includes/elements/gallery-masonry.php:54
+msgid "Randomize Gallery?"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:51
+#: includes/elements/gallery-bricks.php:51
+#: includes/elements/gallery-grid.php:51
+#: includes/elements/gallery-justified.php:59
+#: includes/elements/gallery-masonry.php:55
+msgid "Shuffle images on each time gallery loads."
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:68
+#: includes/elements/gallery-bricks.php:68
+#: includes/elements/gallery-grid.php:68
+#: includes/elements/gallery-masonry.php:72
+msgid "Customize Thmb Size?"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:79
+#: includes/elements/gallery-bricks.php:79
+#: includes/elements/gallery-grid.php:79
+#: includes/elements/gallery-masonry.php:83
+msgid "Preview Width"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:80
+#: includes/elements/gallery-masonry.php:85
+msgid "Preview height will set automatically to keep image ratio."
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:100
+#: includes/elements/gallery-grid.php:112
+#: includes/elements/gallery-masonry.php:104
+#: includes/elements/info-card-grid.php:187
+#: includes/elements/testimonials-grid.php:179
+msgid "Grid Columns"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:104
+#: includes/elements/gallery-grid.php:116
+#: includes/elements/gallery-masonry.php:108
+#: includes/elements/info-card-grid.php:191
+#: includes/elements/testimonials-grid.php:183
+msgid "One Column"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:105
+#: includes/elements/gallery-grid.php:117
+#: includes/elements/gallery-masonry.php:109
+#: includes/elements/info-card-grid.php:192
+#: includes/elements/testimonials-grid.php:184
+msgid "Two Columns"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:106
+#: includes/elements/gallery-grid.php:118
+#: includes/elements/gallery-masonry.php:110
+#: includes/elements/info-card-grid.php:193
+#: includes/elements/testimonials-grid.php:185
+msgid "Three Columns"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:107
+#: includes/elements/gallery-grid.php:119
+#: includes/elements/gallery-masonry.php:111
+#: includes/elements/info-card-grid.php:194
+#: includes/elements/testimonials-grid.php:186
+msgid "Four Columns"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:115
+#: includes/elements/gallery-bricks.php:125
+#: includes/elements/gallery-grid.php:127
+#: includes/elements/gallery-justified.php:105
+#: includes/elements/gallery-masonry.php:119
+#: includes/elements/info-card-grid.php:204
+#: includes/elements/testimonials-carousel.php:157
+#: includes/elements/testimonials-grid.php:196
+msgid "Items Spacing"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:142
+#: includes/elements/gallery-bricks.php:152
+#: includes/elements/gallery-grid.php:154
+#: includes/elements/gallery-justified.php:128
+#: includes/elements/gallery-masonry.php:146
+msgid "Image Captions"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:146
+#: includes/elements/gallery-adjusted.php:161
+#: includes/elements/gallery-bricks.php:156
+#: includes/elements/gallery-bricks.php:171
+#: includes/elements/gallery-grid.php:158
+#: includes/elements/gallery-grid.php:173
+#: includes/elements/gallery-justified.php:132
+#: includes/elements/gallery-justified.php:146
+#: includes/elements/gallery-masonry.php:150
+#: includes/elements/gallery-masonry.php:165
+#: includes/elements/info-card-grid.php:58 includes/elements/info-card.php:110
+#: includes/elements/testimonials-grid.php:105
+msgid "None"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:147
+#: includes/elements/gallery-bricks.php:157
+#: includes/elements/gallery-grid.php:159
+#: includes/elements/gallery-masonry.php:151
+msgid "Under Image"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:148
+#: includes/elements/gallery-bricks.php:158
+#: includes/elements/gallery-grid.php:160
+#: includes/elements/gallery-justified.php:133
+#: includes/elements/gallery-masonry.php:152
+msgid "On Image"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:149
+#: includes/elements/gallery-bricks.php:159
+#: includes/elements/gallery-grid.php:161
+#: includes/elements/gallery-justified.php:134
+#: includes/elements/gallery-masonry.php:153
+msgid "On Hover"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:157
+#: includes/elements/gallery-bricks.php:167
+#: includes/elements/gallery-grid.php:169
+#: includes/elements/gallery-justified.php:142
+#: includes/elements/gallery-masonry.php:161
+msgid "Lightbox Caption"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:162
+#: includes/elements/gallery-bricks.php:172
+#: includes/elements/gallery-grid.php:174
+#: includes/elements/gallery-justified.php:147
+#: includes/elements/gallery-masonry.php:166
+msgid "Show Caption"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:163
+#: includes/elements/gallery-bricks.php:173
+#: includes/elements/gallery-grid.php:175
+#: includes/elements/gallery-justified.php:148
+#: includes/elements/gallery-masonry.php:167
+msgid "Show Description"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:175
+#: includes/elements/gallery-bricks.php:185
+#: includes/elements/gallery-grid.php:187
+#: includes/elements/gallery-justified.php:160
+#: includes/elements/gallery-masonry.php:179
+msgid "Caption Styles"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:183
+#: includes/elements/gallery-bricks.php:193
+#: includes/elements/gallery-grid.php:195
+#: includes/elements/gallery-justified.php:168
+#: includes/elements/gallery-masonry.php:187
+msgid "Captions are disabled by element settings."
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:193
+#: includes/elements/gallery-adjusted.php:216
+#: includes/elements/gallery-bricks.php:203
+#: includes/elements/gallery-bricks.php:226
+#: includes/elements/gallery-grid.php:205
+#: includes/elements/gallery-grid.php:228
+#: includes/elements/gallery-justified.php:178
+#: includes/elements/gallery-masonry.php:197
+#: includes/elements/gallery-masonry.php:220
+#: includes/elements/info-card-grid.php:537 includes/elements/info-card.php:462
+msgid "Caption Spacing"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:238
+#: includes/elements/gallery-bricks.php:248
+#: includes/elements/gallery-grid.php:250
+#: includes/elements/gallery-justified.php:200
+#: includes/elements/gallery-masonry.php:242
+msgid "Stretch Caption Wrapper?"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:253
+#: includes/elements/gallery-bricks.php:263
+#: includes/elements/gallery-grid.php:265
+#: includes/elements/gallery-justified.php:215
+#: includes/elements/gallery-masonry.php:257
+msgid "Caption Alignment"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:261
+#: includes/elements/gallery-bricks.php:271
+#: includes/elements/gallery-grid.php:273
+#: includes/elements/gallery-justified.php:223
+#: includes/elements/gallery-masonry.php:265
+#: includes/elements/info-card-grid.php:288
+#: includes/elements/info-card-grid.php:351
+#: includes/elements/info-card-grid.php:386 includes/elements/info-card.php:213
+#: includes/elements/info-card.php:276 includes/elements/info-card.php:311
+#: includes/elements/testimonials-carousel.php:237
+#: includes/elements/testimonials-carousel.php:300
+#: includes/elements/testimonials-grid.php:280
+#: includes/elements/testimonials-grid.php:343
+#: includes/elements/testimonials-grid.php:375
+#: includes/widgets/widget-socials.php:50
+msgid "Center"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:280
+#: includes/elements/gallery-bricks.php:290
+#: includes/elements/gallery-grid.php:292
+#: includes/elements/gallery-justified.php:242
+#: includes/elements/gallery-masonry.php:284
+msgid "Caption Vertical Align"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:288
+#: includes/elements/gallery-adjusted.php:318
+#: includes/elements/gallery-adjusted.php:322
+#: includes/elements/gallery-bricks.php:298
+#: includes/elements/gallery-bricks.php:328
+#: includes/elements/gallery-bricks.php:332
+#: includes/elements/gallery-grid.php:300
+#: includes/elements/gallery-grid.php:330
+#: includes/elements/gallery-grid.php:334
+#: includes/elements/gallery-justified.php:250
+#: includes/elements/gallery-justified.php:280
+#: includes/elements/gallery-justified.php:284
+#: includes/elements/gallery-masonry.php:292
+#: includes/elements/gallery-masonry.php:322
+#: includes/elements/gallery-masonry.php:326
+#: includes/elements/info-card-grid.php:259 includes/elements/info-card.php:184
+#: includes/elements/testimonials-carousel.php:208
+#: includes/elements/testimonials-grid.php:251
+msgid "Middle"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:310
+#: includes/elements/gallery-bricks.php:320
+#: includes/elements/gallery-grid.php:322
+#: includes/elements/gallery-justified.php:272
+#: includes/elements/gallery-masonry.php:314
+#: includes/elements/info-card-grid.php:251 includes/elements/info-card.php:176
+msgid "Vertical Align"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:348
+#: includes/elements/gallery-bricks.php:358
+#: includes/elements/gallery-grid.php:360
+#: includes/elements/gallery-justified.php:310
+#: includes/elements/gallery-masonry.php:352
+#: includes/elements/info-card-grid.php:573 includes/elements/info-card.php:498
+msgid "Caption Typography"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:358
+#: includes/elements/gallery-bricks.php:368
+#: includes/elements/gallery-grid.php:370
+#: includes/elements/gallery-justified.php:320
+#: includes/elements/gallery-masonry.php:362
+#: includes/elements/info-card-grid.php:562 includes/elements/info-card.php:487
+msgid "Caption Color"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:372
+#: includes/elements/gallery-bricks.php:382
+#: includes/elements/gallery-grid.php:384
+#: includes/elements/gallery-justified.php:334
+#: includes/elements/gallery-masonry.php:376
+msgid "Caption Text Shadow"
+msgstr ""
+
+#: includes/elements/gallery-adjusted.php:392
+#: includes/elements/gallery-bricks.php:402
+#: includes/elements/gallery-grid.php:404
+#: includes/elements/gallery-justified.php:354
+#: includes/elements/gallery-masonry.php:396
+msgid "Background"
+msgstr ""
+
+#: includes/elements/gallery-bricks.php:17
+msgid "Gallery: Bricks"
+msgstr ""
+
+#: includes/elements/gallery-bricks.php:92
+#: includes/elements/gallery-grid.php:92
+msgid "Preview Height"
+msgstr ""
+
+#: includes/elements/gallery-bricks.php:112
+msgid "Select Layout"
+msgstr ""
+
+#: includes/elements/gallery-bricks.php:116
+msgid "One + Two"
+msgstr ""
+
+#: includes/elements/gallery-bricks.php:117
+msgid "Two + Three"
+msgstr ""
+
+#: includes/elements/gallery-grid.php:17
+msgid "Gallery: Grid"
+msgstr ""
+
+#: includes/elements/gallery-justified.php:17
+msgid "Gallery: Justified"
+msgstr ""
+
+#: includes/elements/gallery-justified.php:76
+msgid "Row Height"
+msgstr ""
+
+#: includes/elements/gallery-justified.php:78
+msgid "The preferred rows height in pixel."
+msgstr ""
+
+#: includes/elements/gallery-justified.php:87
+msgid "Justify Last Row?"
+msgstr ""
+
+#: includes/elements/gallery-masonry.php:17
+msgid "Gallery: Masonry"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:17
+msgid "Info Card Grid"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:34 includes/elements/info-card.php:34
+#: includes/elements/testimonials-carousel.php:42
+#: includes/elements/testimonials-grid.php:38
+msgid "Item Content"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:42 includes/elements/info-card.php:74
+msgid "Caption Above Heading?"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:54 includes/elements/info-card.php:106
+msgid "Link Style"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:59 includes/elements/info-card.php:111
+msgid "Text"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:60 includes/elements/info-card.php:112
+msgid "Button"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:75 includes/elements/info-card.php:42
+msgid "Choose Image"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:91 includes/elements/info-card.php:58
+msgid "Heading"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:93
+#: includes/elements/info-card-grid.php:156
+#: includes/elements/info-card-grid.php:164 includes/elements/info-card.php:17
+#: includes/elements/info-card.php:60
+msgid "Info Card"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:99 includes/elements/info-card.php:66
+msgid "Heading Caption"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:101
+#: includes/elements/info-card-grid.php:157
+#: includes/elements/info-card-grid.php:165 includes/elements/info-card.php:68
+msgid "This is Info Card"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:114 includes/elements/info-card.php:92
+msgid "Description"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:128 includes/elements/info-card.php:119
+msgid "Link Text"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:130
+#: includes/elements/info-card-grid.php:159
+#: includes/elements/info-card-grid.php:167 includes/elements/info-card.php:121
+msgid "Your Link"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:136 includes/elements/info-card.php:130
+msgid "Link URL"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:142 includes/elements/info-card.php:136
+msgid "https://your-link.com/"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:149
+msgid "Info Cards"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:179 includes/elements/info-card.php:148
+#: includes/elements/testimonials-carousel.php:131
+#: includes/elements/testimonials-grid.php:153
+msgid "Layout and Align"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:231 includes/elements/info-card.php:156
+msgid "Image and Title Layout"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:235 includes/elements/info-card.php:160
+#: includes/elements/testimonials-carousel.php:184
+#: includes/elements/testimonials-grid.php:227
+msgid "Horizontal"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:239 includes/elements/info-card.php:164
+#: includes/elements/testimonials-carousel.php:188
+#: includes/elements/testimonials-grid.php:231
+msgid "Vertical"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:280 includes/elements/info-card.php:205
+msgid "Heading Alignment"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:313 includes/elements/info-card.php:238
+#: includes/elements/testimonials-carousel.php:262
+#: includes/elements/testimonials-grid.php:305
+msgid "Swap Image and Title?"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:325 includes/elements/info-card.php:250
+msgid "Swap Content and Heading?"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:343 includes/elements/info-card.php:268
+#: includes/elements/testimonials-carousel.php:292
+#: includes/elements/testimonials-grid.php:335
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:378 includes/elements/info-card.php:303
+msgid "Link Alignment"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:412 includes/elements/info-card.php:337
+#: includes/elements/testimonials-carousel.php:323
+#: includes/elements/testimonials-grid.php:421
+msgid "Image Styles"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:420 includes/elements/info-card.php:345
+#: includes/elements/testimonials-carousel.php:331
+#: includes/elements/testimonials-grid.php:429
+msgid "Image Shape"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:424 includes/elements/info-card.php:349
+#: includes/elements/testimonials-carousel.php:335
+#: includes/elements/testimonials-grid.php:433
+msgid "Original"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:425 includes/elements/info-card.php:350
+#: includes/elements/testimonials-carousel.php:336
+#: includes/elements/testimonials-grid.php:434
+msgid "Square"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:432 includes/elements/info-card.php:357
+#: includes/elements/testimonials-carousel.php:343
+#: includes/elements/testimonials-grid.php:441
+msgid "Image Size"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:457 includes/elements/info-card.php:382
+#: includes/elements/testimonials-carousel.php:368
+#: includes/elements/testimonials-grid.php:466
+msgid "Image Border Radius"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:477
+#: includes/elements/info-card-grid.php:747 includes/elements/info-card.php:402
+#: includes/elements/info-card.php:672
+#: includes/elements/testimonials-grid.php:486
+msgid "Button Shadow"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:488 includes/elements/info-card.php:413
+msgid "Heading Styles"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:495 includes/elements/info-card.php:420
+msgid "Heading Padding"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:513 includes/elements/info-card.php:438
+msgid "Heading Color"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:524 includes/elements/info-card.php:449
+msgid "Heading Typography"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:584 includes/elements/info-card.php:509
+#: includes/elements/testimonials-carousel.php:521
+#: includes/elements/testimonials-grid.php:593
+msgid "Content Styles"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:592 includes/elements/info-card.php:517
+#: includes/elements/testimonials-carousel.php:529
+#: includes/elements/testimonials-grid.php:601
+msgid "Content Margin"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:610 includes/elements/info-card.php:535
+#: includes/elements/testimonials-carousel.php:547
+#: includes/elements/testimonials-grid.php:619
+msgid "Content Padding"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:634 includes/elements/info-card.php:559
+#: includes/elements/testimonials-carousel.php:571
+#: includes/elements/testimonials-grid.php:643
+msgid "Background Color"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:644 includes/elements/info-card.php:569
+#: includes/elements/testimonials-carousel.php:581
+#: includes/elements/testimonials-grid.php:653
+msgid "Text Color"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:661 includes/elements/info-card.php:586
+#: includes/elements/testimonials-carousel.php:598
+#: includes/elements/testimonials-grid.php:670
+msgid "Content Typography"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:672 includes/elements/info-card.php:597
+msgid "Link Styles"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:680 includes/elements/info-card.php:605
+msgid "Typography"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:688 includes/elements/info-card.php:613
+#: includes/elements/testimonials-carousel.php:453
+msgid "Text Shadow"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:706 includes/elements/info-card.php:631
+#: includes/elements/testimonials-carousel.php:714
+msgid "Normal"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:713 includes/elements/info-card.php:638
+msgid "Link Color"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:723 includes/elements/info-card.php:648
+msgid "Link Background"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:761 includes/elements/info-card.php:686
+#: includes/elements/testimonials-carousel.php:740
+msgid "Hover"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:768 includes/elements/info-card.php:693
+msgid "Link Hover Color"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:778 includes/elements/info-card.php:703
+msgid "Link Hover Background"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:802 includes/elements/info-card.php:727
+msgid "Button Hover Shadow"
+msgstr ""
+
+#: includes/elements/info-card-grid.php:826 includes/elements/info-card.php:751
+msgid "Button Padding"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:17
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:52
+#: includes/elements/testimonials-grid.php:48
+msgid "Author Image"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:68
+#: includes/elements/testimonials-grid.php:64
+msgid "Author Name"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:70
+msgid "Author"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:76
+#: includes/elements/testimonials-carousel.php:78
+#: includes/elements/testimonials-carousel.php:113
+#: includes/elements/testimonials-carousel.php:119
+#: includes/elements/testimonials-grid.php:72
+#: includes/elements/testimonials-grid.php:74
+#: includes/elements/testimonials-grid.php:126
+#: includes/elements/testimonials-grid.php:133
+#: includes/elements/testimonials-grid.php:140
+msgid "Occupation"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:91
+#: includes/elements/testimonials-grid.php:87
+msgid "Testimonial"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:105
+#: includes/elements/testimonials-grid.php:118
+msgid "Testimonials"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:112
+#: includes/elements/testimonials-carousel.php:118
+#: includes/elements/testimonials-grid.php:66
+#: includes/elements/testimonials-grid.php:125
+#: includes/elements/testimonials-grid.php:132
+#: includes/elements/testimonials-grid.php:139
+msgid "John Doe"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:139
+#: includes/elements/testimonials-grid.php:161
+msgid "Occupation Above Heading?"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:180
+#: includes/elements/testimonials-grid.php:223
+msgid "Author Layout"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:200
+#: includes/elements/testimonials-grid.php:243
+msgid "Author Vertical Align"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:229
+#: includes/elements/testimonials-grid.php:272
+msgid "Author Name Alignment"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:274
+#: includes/elements/testimonials-grid.php:317
+msgid "Swap Content and Author?"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:388
+msgid "Image Shadow"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:399
+#: includes/elements/testimonials-grid.php:497
+msgid "Author Styles"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:406
+msgid "Author Name Margin"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:424
+#: includes/elements/testimonials-grid.php:504
+msgid "Author Name Padding"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:442
+#: includes/elements/testimonials-grid.php:522
+msgid "Author Name Color"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:461
+#: includes/elements/testimonials-grid.php:533
+msgid "Author Name Typography"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:474
+#: includes/elements/testimonials-grid.php:546
+msgid "Occupation Spacing"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:499
+#: includes/elements/testimonials-grid.php:571
+msgid "Occupation Color"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:510
+#: includes/elements/testimonials-grid.php:582
+msgid "Occupation Typography"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:609
+msgid "Navigation Styles"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:616
+msgid "Navigation Border Radius"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:641
+msgid "Navigation Top Spacing"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:661
+msgid "Navigation Item Spacing"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:682
+msgid "Navigation Item Size"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:720
+#: includes/elements/testimonials-carousel.php:746
+#: includes/elements/testimonials-carousel.php:772
+msgid "Item Color"
+msgstr ""
+
+#: includes/elements/testimonials-carousel.php:766
+msgid "Active"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:17
+msgid "Testimonials Grid"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:101
+msgid "Rating"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:106
+msgid "1 Star"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:107
+msgid "2 Stars"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:108
+msgid "3 Stars"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:109
+msgid "4 Stars"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:110
+msgid "5 Stars"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:367
+msgid "Rating Alignment"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:393
+msgid "Rating Position"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:681
+msgid "Rating Styles"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:689
+msgid "Rating Spacing"
+msgstr ""
+
+#: includes/elements/testimonials-grid.php:710
+msgid "Rating Color"
+msgstr ""
+
+#: includes/widgets/widget-about.php:13
+msgid "Displays short about information."
+msgstr ""
+
+#: includes/widgets/widget-about.php:16
+msgid "About (ST)"
+msgstr ""
+
+#: includes/widgets/widget-about.php:52 includes/widgets/widget-contact.php:49
+#: includes/widgets/widget-posts.php:63 includes/widgets/widget-socials.php:43
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-about.php:55
+msgid "Caption:"
+msgstr ""
+
+#: includes/widgets/widget-about.php:59
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/widgets/widget-about.php:60
+msgid "Update Image"
+msgstr ""
+
+#: includes/widgets/widget-about.php:62 includes/widgets/widget-about.php:77
+msgid "Remove Image"
+msgstr ""
+
+#: includes/widgets/widget-about.php:65
+msgid "Select Image:"
+msgstr ""
+
+#: includes/widgets/widget-about.php:80 includes/widgets/widget-about.php:83
+msgid "Select an Image"
+msgstr ""
+
+#: includes/widgets/widget-about.php:81 includes/widgets/widget-about.php:83
+msgid "Change an Image"
+msgstr ""
+
+#: includes/widgets/widget-about.php:88 includes/widgets/widget-contact.php:53
+msgid "Description:"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:13
+msgid "Displays short contact information."
+msgstr ""
+
+#: includes/widgets/widget-contact.php:15
+msgid "Contacts (ST)"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:35
+msgid "How To Find Us"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:57
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:61
+msgid "Email:"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:65
+msgid "Phone:"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:69
+msgid "Fax:"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:75
+msgid "Show Socials"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:13
+msgid "Displays Posts with different options"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:15
+msgid "Posts (ST)"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:50
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:67
+msgid "Posts Count:"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:78
+msgid "Order:"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:85
+msgid "Order By:"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:87
+msgid "Post Date"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:89
+msgid "Post ID"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:90
+msgid "Post Title"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:94
+msgid "Content Align:"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:101
+msgid "Featured Image:"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:103
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:104
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/widget-socials.php:13
+msgid "Displays social icons, defined in Customizer."
+msgstr ""
+
+#: includes/widgets/widget-socials.php:15
+msgid "Socials (ST)"
+msgstr ""
+
+#: includes/widgets/widget-socials.php:35
+msgid "Follow Us"
+msgstr ""
+
+#: includes/widgets/widget-socials.php:47
+msgid "Align:"
+msgstr ""
+
+#: shadow-core.php:165
+msgid "Demo Mode."
+msgstr ""

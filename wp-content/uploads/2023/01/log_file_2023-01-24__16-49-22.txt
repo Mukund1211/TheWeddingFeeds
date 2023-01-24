@@ -1,0 +1,181 @@
+
+---Downloaded files---
+The import files for: Ashade Dummy Content were successfully downloaded!
+Initial max execution time = 1000
+Files info:
+Site URL = http://localhost/TheWeddingFeeds
+Data file = J:\xampp-7.3\htdocs\TheWeddingFeeds/wp-content/uploads/2023/01/demo-content-import-file_2023-01-24__16-49-22.xml
+Widget file = J:\xampp-7.3\htdocs\TheWeddingFeeds/wp-content/uploads/2023/01/demo-widgets-import-file_2023-01-24__16-49-22.json
+Customizer file = J:\xampp-7.3\htdocs\TheWeddingFeeds/wp-content/uploads/2023/01/demo-customizer-import-file_2023-01-24__16-49-22.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - Recent Posts - Imported
+Categories - Categories - Imported
+Tag Cloud - Tag Cloud - Imported
+
+Aside Bar : 
+
+Search - No Title - Imported
+Ashade About (ST) - Andrew Shade - Imported
+Ashade Contacts (ST) - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
